@@ -1,0 +1,74 @@
+
+body{
+background-color: #f7f0de;
+}
+nav li{
+    font-size: 25px;
+}
+.tastymemories{
+    font-size: 40px;
+}
+.carousel{
+    margin-top: 20px;
+}
+/* this is for the shopping cart symbol*/.fa {
+    font-size: 24px;
+    color: black;
+}
+.jumbotron{
+    margin-top: 20px;
+    background-color:transparent;
+}
+.jumbotron hr{
+    border-width: 3px;
+    border-color: black;
+}
+footer{
+    padding-bottom: 20px;
+    padding-top: 5px;
+    margin-top: 50px;
+    color: white;
+
+}
+footer ul{
+    text-align: center; 
+}
+.footerColor a{
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.footerTitle{
+    text-align: center;
+}
+.footerSignature{
+    font-size: 10px;
+}
+hr{
+    border-color: white;
+}
+#cakes{
+    color: black;
+    font-size: 80px;
+    font-family: 'Spicy Rice', cursive;    
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-image: url(../images/cakeBackground.jpg);
+
+}
+.paragraphOnHistory{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.contactForm{
+    margin-top: 8em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.insideContactForm{
+    margin-top: 2em;
+}
+.formSubmit{
+    margin-top: 2em;
+}
