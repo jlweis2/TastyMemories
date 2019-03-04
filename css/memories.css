@@ -67,6 +67,26 @@ hr{
     background-image: url(../images/cookiesBackground.jpg);
 
 }
+#holiday{
+    color: black;
+    font-size: 80px;
+    font-family: 'Spicy Rice', cursive;    
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-image: url(../images/holidayBackground.jpg);
+
+}
+#special{
+    color: black;
+    font-size: 80px;
+    font-family: 'Spicy Rice', cursive;    
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-image: url(../images/specialBackground.jpg);
+
+}
 .paragraphOnHistory{
     margin-left: 3em;
     margin-right: 3em;
