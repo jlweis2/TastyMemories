@@ -57,6 +57,16 @@ hr{
     background-image: url(../images/cakeBackground.jpg);
 
 }
+#cookies{
+    color: black;
+    font-size: 80px;
+    font-family: 'Spicy Rice', cursive;    
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-image: url(../images/cookiesBackground.jpg);
+
+}
 .paragraphOnHistory{
     margin-left: 3em;
     margin-right: 3em;
